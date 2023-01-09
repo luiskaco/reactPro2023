@@ -1,8 +1,12 @@
-npx create-react-app bases --template typescript
 
+## CURSO REACT AVANZADO 2023
 
-// Paquete greeSock - Paquete de animacion
+##### Comando viejo de instalacion de react
+``` npx create-react-app bases --template typescript ```
 
-npm install gsap
+### Instalables
+#####  Paquete greeSock - Paquete de animacion
 
-https://greensock.com/gsap/
+```npm install gsap```
+
+Documentación: [Enlace](https://greensock.com/gsap/)
